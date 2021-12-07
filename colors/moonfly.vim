@@ -56,12 +56,12 @@ let s:grey234   = {"hex": '#1c1c1c', "term": 234}
 let s:grey233   = {"hex": '#121212', "term": 233}
 " Core theme colors
 let s:wheat     = {"hex": '#bfbf97', "term": 11}
-let s:yellow    = {"hex": '#e7c547 ', "term": 3 }
+let s:yellow    = {"hex": '#fece63', "term": 3 }
 let s:orange    = {"hex": '#e78c45 ', "term": 7 }
 let s:coral     = {"hex": '#f09479', "term": 8 }
-let s:lime      = {"hex": '#85dc85', "term": 14}
+let s:lime      = {"hex": '#62d4c0', "term": 14}
 let s:green     = {"hex": '#b9ca4a ', "term": 2 }
-let s:emerald   = {"hex": '#36c692', "term": 10}
+let s:emerald   = {"hex": '#63d7c3', "term": 10}
 let s:blue      = {"hex": '#7aa6da', "term": 4 }
 let s:sky       = {"hex": '#74b2ff', "term": 12}
 let s:turquoise = {"hex": '#79dac8', "term": 6 }
