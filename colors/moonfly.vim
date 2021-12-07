@@ -39,7 +39,7 @@ let g:moonflyUnderlineMatchParen = get(g:, 'moonflyUnderlineMatchParen', 0)
 let g:moonflyVertSplits = get(g:, 'moonflyVertSplits', 1)
 
 " Background and foreground
-let s:black     = {"hex": '#080808', "term": 232}
+let s:black     = {"hex": '#0d0d0d', "term": 232}
 let s:white     = {"hex": '#c6c6c6', "term": 251}
 " Variations of charcoal-grey
 let s:grey0     = {"hex": '#323437', "term": 0  }
@@ -56,20 +56,20 @@ let s:grey234   = {"hex": '#1c1c1c', "term": 234}
 let s:grey233   = {"hex": '#121212', "term": 233}
 " Core theme colors
 let s:wheat     = {"hex": '#bfbf97', "term": 11}
-let s:yellow    = {"hex": '#e3c78a', "term": 3 }
-let s:orange    = {"hex": '#de935f', "term": 7 }
+let s:yellow    = {"hex": '#e7c547 ', "term": 3 }
+let s:orange    = {"hex": '#e78c45 ', "term": 7 }
 let s:coral     = {"hex": '#f09479', "term": 8 }
 let s:lime      = {"hex": '#85dc85', "term": 14}
-let s:green     = {"hex": '#8cc85f', "term": 2 }
+let s:green     = {"hex": '#b9ca4a ', "term": 2 }
 let s:emerald   = {"hex": '#36c692', "term": 10}
-let s:blue      = {"hex": '#80a0ff', "term": 4 }
+let s:blue      = {"hex": '#7aa6da', "term": 4 }
 let s:sky       = {"hex": '#74b2ff', "term": 12}
 let s:turquoise = {"hex": '#79dac8', "term": 6 }
 let s:purple    = {"hex": '#ae81ff', "term": 13}
 let s:cranberry = {"hex": '#e2637f', "term": 15}
 let s:violet    = {"hex": '#d183e8', "term": 5 }
 let s:crimson   = {"hex": '#ff5189', "term": 9 }
-let s:red       = {"hex": '#ff5454', "term": 1 }
+let s:red       = {"hex": '#d54e53', "term": 1 }
 " Extra colors
 let s:spring    = {"hex": '#00875f', "term": 29}
 
